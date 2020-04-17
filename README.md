@@ -1,2 +1,0 @@
-# randomInt
-Created with CodeSandbox
